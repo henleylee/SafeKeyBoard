@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:horizontalGap="@dimen/keyboard_letter_horizontal_gap"
+    android:keyHeight="@dimen/keyboard_letter_key_height"
+    android:keyWidth="@dimen/keyboard_letter_key_width"
+    android:verticalGap="@dimen/keyboard_letter_vertical_gap">
+
+    <Row>
+        <Key android:keyWidth="8.9%p" android:codes="33" android:keyLabel="@string/char_33" android:keyEdgeFlags="left" /><!-- ! -->
+        <Key android:keyWidth="8.9%p" android:codes="64" android:keyLabel="@string/char_64" /><!--@-->
+        <Key android:keyWidth="8.9%p" android:codes="35" android:keyLabel="@string/char_35" /><!-- # -->
+        <Key android:keyWidth="8.9%p" android:codes="36" android:keyLabel="@string/char_36" /><!-- $ -->
+        <Key android:keyWidth="8.9%p" android:codes="37" android:keyLabel="@string/char_37" /><!-- % -->
+        <Key android:keyWidth="8.9%p" android:codes="94" android:keyLabel="@string/char_94" /><!-- ^ -->
+        <Key android:keyWidth="8.9%p" android:codes="38" android:keyLabel="@string/char_38" /><!--&-->
+        <Key android:keyWidth="8.9%p" android:codes="42" android:keyLabel="@string/char_42" /><!-- + -->
+        <Key android:keyWidth="8.9%p" android:codes="40" android:keyLabel="@string/char_40" /><!-- ) -->
+        <Key android:keyWidth="8.9%p" android:codes="41" android:keyLabel="@string/char_41" android:keyEdgeFlags="right" /><!-- ) -->
+    </Row>
+
+    <Row>
+        <Key android:keyWidth="8.9%p" android:codes="39" android:keyLabel="@string/char_39" android:keyEdgeFlags="left" /><!-- ' -->
+        <Key android:keyWidth="8.9%p" android:codes="34" android:keyLabel="@string/char_34" /><!-- " -->
+        <Key android:keyWidth="8.9%p" android:codes="61" android:keyLabel="@string/char_61" /><!-- = -->
+        <Key android:keyWidth="8.9%p" android:codes="95" android:keyLabel="@string/char_95" /><!-- _ -->
+        <Key android:keyWidth="8.9%p" android:codes="58" android:keyLabel="@string/char_58" /><!-- : -->
+        <Key android:keyWidth="8.9%p" android:codes="59" android:keyLabel="@string/char_59" /><!-- ; -->
+        <Key android:keyWidth="8.9%p" android:codes="63" android:keyLabel="@string/char_63" /><!-- ? -->
+        <Key android:keyWidth="8.9%p" android:codes="126" android:keyLabel="@string/char_126" /><!-- ~ -->
+        <Key android:keyWidth="8.9%p" android:codes="124" android:keyLabel="@string/char_124" /><!-- | -->
+        <Key android:keyWidth="8.9%p" android:codes="183" android:keyLabel="@string/key_point" android:keyEdgeFlags="right" /><!-- · -->
+    </Row>
+
+    <Row>
+        <Key android:keyWidth="9%p" android:codes="43" android:keyLabel="@string/char_43" android:horizontalGap="3.5%p" /><!-- + -->
+        <Key android:keyWidth="9%p" android:codes="45" android:keyLabel="@string/char_45" /><!-- - -->
+        <Key android:keyWidth="9%p" android:codes="92" android:keyLabel="@string/char_92" /><!-- \ -->
+        <Key android:keyWidth="9%p" android:codes="47" android:keyLabel="@string/char_47" /><!-- / -->
+        <Key android:keyWidth="9%p" android:codes="91" android:keyLabel="@string/char_91" /><!-- [ -->
+        <Key android:keyWidth="9%p" android:codes="93" android:keyLabel="@string/char_93" /><!-- ] -->
+        <Key android:keyWidth="9%p" android:codes="123" android:keyLabel="@string/char_123" /><!-- { -->
+        <Key android:keyWidth="9%p" android:codes="125" android:keyLabel="@string/char_125" /><!-- ~ -->
+        <Key android:keyWidth="13%p" android:codes="-5" android:isRepeatable="true" android:keyIcon="@drawable/icon_keyboard_delete" android:horizontalGap="3.5%p" />
+    </Row>
+
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyWidth="13%p" android:codes="10002" android:keyLabel="@string/key_number" /><!-- 123 -->
+        <Key android:keyWidth="9%p" android:codes="44" android:keyLabel="@string/char_44" android:horizontalGap="2%p" /><!-- , -->
+        <Key android:keyWidth="9%p" android:codes="46" android:keyLabel="@string/char_46" /><!-- . -->
+        <Key android:keyWidth="9%p" android:codes="60" android:keyLabel="@string/char_60" /><!-- < -->
+        <Key android:keyWidth="9%p" android:codes="62" android:keyLabel="@string/char_62" /><!-- > -->
+        <Key android:keyWidth="9%p" android:codes="8364" android:keyLabel="@string/char_euro" /><!-- € -->
+        <Key android:keyWidth="9%p" android:codes="163" android:keyLabel="@string/char_pound" /><!-- £ -->
+        <Key android:keyWidth="9%p" android:codes="165" android:keyLabel="@string/char_cny" /><!-- ¥ -->
+        <Key android:keyWidth="13%p" android:codes="10003" android:keyLabel="@string/key_abc" android:horizontalGap="2%p" android:keyEdgeFlags="right" /><!-- ABC -->
+    </Row>
+
+</Keyboard>

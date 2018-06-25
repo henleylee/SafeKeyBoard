@@ -1,0 +1,13 @@
+<resources>
+
+    <!--键盘-->
+    <dimen name="keyboard_number_key_height">45dp</dimen>
+    <dimen name="keyboard_number_key_width">32%p</dimen>
+    <dimen name="keyboard_number_vertical_gap">5dp</dimen>
+    <dimen name="keyboard_number_horizontal_gap">1.0%p</dimen>
+    <dimen name="keyboard_letter_key_width">10%p</dimen>
+    <dimen name="keyboard_letter_key_height">45dp</dimen>
+    <dimen name="keyboard_letter_vertical_gap">5dp</dimen>
+    <dimen name="keyboard_letter_horizontal_gap">1%p</dimen>
+
+</resources>

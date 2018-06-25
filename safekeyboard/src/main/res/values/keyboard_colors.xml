@@ -1,0 +1,6 @@
+<resources>
+    <!--键盘-->
+    <color name="keyboard_background">#212121</color>
+    <color name="keyboard_key_normal">#383838</color>
+    <color name="keyboard_key_pressed">#565656</color>
+</resources>
