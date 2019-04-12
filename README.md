@@ -1,4 +1,4 @@
-# SafeKeyBoard-master —— Android自定义安全键盘
+# SafeKeyBoard —— Android自定义安全键盘
 
 ## 1. 介绍 ##
 Android自定义安全键盘用来替代系统键盘，可以指定随机键盘。
