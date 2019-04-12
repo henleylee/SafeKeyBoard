@@ -1,4 +1,4 @@
-package com.liyunlong.safekeyboard;
+package com.henley.safekeyboard;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -27,7 +27,9 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author liyunlong
+ * 安全键盘
+ *
+ * @author Henley
  * @date 2018/6/13 18:41
  */
 public class SafeKeyboard {

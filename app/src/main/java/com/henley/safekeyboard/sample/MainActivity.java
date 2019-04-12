@@ -1,4 +1,4 @@
-package com.liyunlong.safekeyboard.sample;
+package com.henley.safekeyboard.sample;
 
 import android.annotation.SuppressLint;
 import android.inputmethodservice.KeyboardView;
@@ -6,10 +6,10 @@ import android.os.Bundle;
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 
-import com.liyunlong.safekeyboard.KeyboardEditTextTouchListener;
-import com.liyunlong.safekeyboard.KeyboardState;
-import com.liyunlong.safekeyboard.KeyboardType;
-import com.liyunlong.safekeyboard.SafeKeyboard;
+import com.henley.safekeyboard.KeyboardEditTextTouchListener;
+import com.henley.safekeyboard.KeyboardState;
+import com.henley.safekeyboard.KeyboardType;
+import com.henley.safekeyboard.SafeKeyboard;
 
 public class MainActivity extends AppCompatActivity {
 

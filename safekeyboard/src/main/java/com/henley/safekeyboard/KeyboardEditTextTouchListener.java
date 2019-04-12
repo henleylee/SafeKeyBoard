@@ -1,11 +1,11 @@
-package com.liyunlong.safekeyboard;
+package com.henley.safekeyboard;
 
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.EditText;
 
 /**
- * @author liyunlong
+ * @author Henley
  * @date 2018/6/15 13:58
  */
 public class KeyboardEditTextTouchListener implements View.OnTouchListener {

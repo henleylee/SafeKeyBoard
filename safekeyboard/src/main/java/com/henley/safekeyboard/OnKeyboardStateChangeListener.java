@@ -1,11 +1,11 @@
-package com.liyunlong.safekeyboard;
+package com.henley.safekeyboard;
 
 import android.widget.EditText;
 
 /**
  * 键盘状态改变监听
  *
- * @author liyunlong
+ * @author Henley
  * @date 2018/6/15 11:52
  */
 public interface OnKeyboardStateChangeListener {

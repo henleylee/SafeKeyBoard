@@ -1,4 +1,4 @@
-package com.liyunlong.safekeyboard;
+package com.henley.safekeyboard;
 
 import android.support.annotation.IntDef;
 
@@ -8,7 +8,7 @@ import java.lang.annotation.RetentionPolicy;
 /**
  * 键盘类型
  *
- * @author liyunlong
+ * @author Henley
  * @date 2018/6/14 10:01
  */
 @IntDef({
