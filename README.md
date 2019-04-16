@@ -3,7 +3,15 @@
 ## 1. 介绍 ##
 Android自定义安全键盘用来替代系统键盘，可以指定随机键盘。
 
-## 2. APK Demo ##
+## 2. Download ##
+### Gradle ###
+```gradle
+dependencies {
+    implementation 'com.henley.safekeyboard:safekeyboard:1.0.0'
+}
+```
+
+### APK Demo ###
 
 下载 [APK-Demo](https://github.com/HenleyLee/SafeKeyBoard/raw/master/app/app-release.apk)
 
