@@ -44,5 +44,6 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "com.android.support:appcompat-v7:$supportVersion"
     implementation "com.android.support:design:$supportVersion"
-    implementation project(':safekeyboard')
+//    implementation project(':safekeyboard')
+    implementation 'com.henley.safekeyboard:safekeyboard:1.0.0'
 }
