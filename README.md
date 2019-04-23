@@ -7,7 +7,7 @@ Android自定义安全键盘用来替代系统键盘，可以指定随机键盘�
 ### Gradle ###
 ```gradle
 dependencies {
-    implementation 'com.henley.safekeyboard:safekeyboard:1.0.0'
+    implementation 'com.henley.android:safekeyboard:1.0.0'
 }
 ```
 

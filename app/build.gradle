@@ -45,5 +45,5 @@ dependencies {
     implementation "com.android.support:appcompat-v7:$supportVersion"
     implementation "com.android.support:design:$supportVersion"
 //    implementation project(':safekeyboard')
-    implementation 'com.henley.safekeyboard:safekeyboard:1.0.0'
+    implementation 'com.henley.android:safekeyboard:1.0.0'
 }

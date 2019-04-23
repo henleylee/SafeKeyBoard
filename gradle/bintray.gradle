@@ -19,9 +19,10 @@ def siteUrl = 'https://github.com/HenleyLee/SafeKeyBoard'
 
 publish {
     userOrg = 'henleylee'
-    groupId = 'com.henley.safekeyboard'
+    groupId = 'com.henley.android'
     artifactId = 'safekeyboard'
     publishVersion = '1.0.0'
-    desc = 'Android 自定义安全键盘.'
+    uploadName = 'SafeKeyBoard'
+    desc = 'Android 自定义安全键盘。'
     website = siteUrl
 }
